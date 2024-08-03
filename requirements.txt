@@ -1,0 +1,13 @@
+discord.py
+python-dotenv
+youtube_dl
+yt_dlp
+PyNaCl
+google-generativeai
+imageio[ffmpeg]
+google-auth
+google-auth-httplib2
+google-api-python-client
+protobuf
+pydantic
+imageio-ffmpeg
